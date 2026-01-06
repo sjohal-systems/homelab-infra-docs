@@ -19,3 +19,5 @@ Storage & Virtualization
 Hypervisor: Oracle VirtualBox.
 
 NAS: TrueNAS Scale running in a hardened VM with bridged networking.
+
+Architected and operate a private, high-density compute facility with a hardware asset value exceeding £35,000. The infrastructure is fully self-insured and powered by an independent 2.5kW solar microgrid to ensure 99.99% uptime for proprietary trading logic.
